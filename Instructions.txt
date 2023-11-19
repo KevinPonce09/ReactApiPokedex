@@ -1,0 +1,12 @@
+1. Open power Shell
+-------------------------------------------------
+2. Access the project folder with the command: CD + 'Folder path' 
+3. Install the router to be able to display the web page with the following line of code: npm i react-router-dom@6
+---------------------------------------------------------------------
+(-step 2 can be executed if you already have react installed on your device 
+you can skip 
+-step 3 because installing react you must also install the router to view your react jobs.)
+------------------------------------------------------------------------------------------
+4. Install the loader extension with the following line of code: npm install ldrs
+5. Proceed to start the router with the following line of code: npm run dev
+6. Enjoy your local pokedex with the API integration: PokeApi
